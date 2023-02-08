@@ -4,9 +4,9 @@ import Photo from '../image/foto.jpeg';
 class About extends Component {
   render() {
     return (
-      <section id='about' className='text-center my-6 w-full'>
-        <h1 className='text-2xl mb-4'>
-          Bem vindo, me chamo{' '}
+      <section id='about' className='text-center mb-6 w-full'>
+        <h1 className='text-2xl py-5 mb-8 bg-white text-black'>
+          Dev FullStack{' '}
           <strong className='text-keppel'>
             Victor Pinheiro Mello
           </strong>

@@ -5,7 +5,6 @@ import ReactJS from './image/react-javascript-js-framework-facebook-svgrepo-com.
 import Tailwind from './image/tailwind-svgrepo-com.svg';
 
 import GitHub from './image/github-color-svgrepo-com.svg';
-import Instagram from './image/instagram-svgrepo-com.svg';
 import Linkedin from './image/linkedin-svgrepo-com.svg';
 
 export const dataSkills = [
@@ -41,10 +40,5 @@ export const contactsIcon = [
     name: 'Linkedin:',
     link: 'https://www.linkedin.com/in/victor-pinheiro-mello-89473b1b9/',
     icon: Linkedin,
-  },
-  {
-    name: 'Instagram:',
-    link: 'https://www.instagram.com/victormello.p/',
-    icon: Instagram,
   },
 ];
