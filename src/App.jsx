@@ -14,12 +14,9 @@ class App extends Component {
          {/* //! Remover Header */}
         <main className='flex justify-center items-center flex-col'>
           <About />
-          {/* //! Colocar "FullStack" no h1 */}
           <Skills />
           <Projects />
-          {/* //! Habilitar player, colocar descrição e link pro repositório */}
           <Contact />
-          {/* //! Remover link do instagram */}
         </main>
       </>
     );

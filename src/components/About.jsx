@@ -8,7 +8,7 @@ class About extends Component {
         <h1 className='text-2xl py-5 mb-8 bg-white text-black'>
           Dev FullStack{' '}
           <strong className='text-keppel'>
-            Victor Pinheiro Mello
+            Victor Mello
           </strong>
         </h1>
         <div className='flex justify-center items-center gap-6 px-5'>
