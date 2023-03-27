@@ -39,7 +39,6 @@ body {
   hover:after:w-full;
 }
 
-
 .video-content {
   @apply text-2xl 
   w-5/12

@@ -20,7 +20,7 @@ class About extends Component {
           <p className='w-96 text-right text-xl'>
             Tenho 25 anos e sou de Feira de Santana na Bahia. Conheci
             programação em 2019 quando fiz um curso técnico na minha
-            cidade. Meu objetivo porfissional é me tornar uma pessoa
+            cidade. Meu objetivo profissional é me tornar uma pessoa
             desenvolvedora web FullStack. Atualmente estou estudando
             na <strong className='text-cinnabar'>Trybe</strong>
           </p>
