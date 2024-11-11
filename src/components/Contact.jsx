@@ -12,9 +12,9 @@ class Contact extends Component {
             <strong className='text-cinnabar'>Email: </strong>victormello7003@hotmail.com
           </a>
           <a 
-            href='https://wa.me/5575982165634' 
+            href='https://wa.me/5575981082746' 
             target='_blank'>
-              <strong className='text-cinnabar'>WhatsApp: </strong>+55 (75) 98216-5634
+              <strong className='text-cinnabar'>WhatsApp: </strong>+55 (75) 98108-2746
           </a>
         </div>
 
